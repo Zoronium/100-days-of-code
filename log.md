@@ -12,7 +12,7 @@
 
 **Link to work:** [Calculator App](http://www.example.com) -->
 
-### Day 0: October 30, 2022 (Example 1)
+### Day 0: November 14, 2022 (Example 1)
 
 ##### (delete me or comment me out)
 

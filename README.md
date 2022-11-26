@@ -10,6 +10,9 @@
 
 ## If you've decided to join:
 
+<details>
+<summary>Here</summary>
+
 0.  Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect
     Also, [here](https://www.100daysofcode.com/slack) is a invite link to the 100DaysOfCode Slack channel
 1.  Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
@@ -36,6 +39,8 @@ The themes covered are:
 - **Overcoming Creative Blocks**. Together we explore how to beat the Resistance and finish that project you've been day-dreaming about.
 - **Minimalism** Living with less has lots of benefits: reduced stress, less cleaning, better finances and a lot more!
 - **Other topics**. Psychology, learning to code, alternative lifestyles and more.
+
+</details>
 
 Join the Do the Opposite Community!
 
